@@ -1,0 +1,15 @@
+{
+	"name": "A Pixel Adventure",
+	"id": "pixadv",
+	"version": "1.0",
+	"author": "CM360",
+	"description": [
+		"The base game content."
+	],
+	"providers": [
+		"com.github.cm360.pixadv.builtin.pixadv.BuiltinModuleContentProvider"
+	],
+	"assets": [
+		"assets"
+	]
+}
